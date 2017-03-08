@@ -1,0 +1,1 @@
+copy from [https://github.com/mybatis/spring-boot-starter](https://github.com/mybatis/spring-boot-starter)
